@@ -1,0 +1,1 @@
+Scripts/programs you've written as personal practice can go here. Anything related to cybersecurity goes.
